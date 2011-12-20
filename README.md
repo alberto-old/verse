@@ -16,3 +16,9 @@ v0.4
     Added Javascript support through execjs and therubyracer
     Removed the public/index.html
     Added controller Home and action 'index'
+
+v0.5
+
+    Created _header & _footer for home | index page
+    Created basic home page based on Twitter bootstrap style
+    ** Missing Rspec testing
